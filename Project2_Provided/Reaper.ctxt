@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Reaper
+comment0.text=\r\n\ The\ Reaper\ object\ should\ just\ continually\ move\ closer\ to\ \r\n\ the\ game's\ spaceship.\ \r\n\ \r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 3/2019\r\n
+comment1.params=x\ y
+comment1.target=Reaper(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

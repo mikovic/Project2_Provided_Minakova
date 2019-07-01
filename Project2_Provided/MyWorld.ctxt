@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ MyWorld\ is\ the\ "containing"\ class\ for\ the\ second\ CSC14400\ project.\r\n\ It\ allows\ a\ spacehip\ to\ fly\ around\:\r\n\ \ \ \ -\ without\ hitting\ walls\r\n\ \ \ \ -\ without\ hitting\ reaper\ (objects)\r\n\ \ \ \ -\ gaining\ fuel\ when\ close\ to\ 4\ or\ more\ non-empty\ fuel\ sources\r\n\ \ \ \ -\ updating\ the\ ScoreBoard\ as\ needed\r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 3/2019\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ allows\ user\ to\ press\ "L"\ to\ load\ a\ new\ game.\ \r\n
+comment3.params=
+comment3.target=ScoreBoard\ getScoreBoard()
+comment4.params=
+comment4.target=Spaceship\ getSpaceship()
+numComments=5

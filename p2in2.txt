@@ -1,0 +1,15 @@
+#some fuel sources 
+fuel 10 100 100
+Fuel 3  140 140
+FUEL 20 140 100
+fuEL 17 100 140
+
+# More fuel
+Fuel 20 300 300
+fuel 20 310 300
+fuel 20 320 300
+fuel 20 330 300
+
+#2 reapers!
+reaPer 100 100
+rEaper 700 500
